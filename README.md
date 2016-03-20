@@ -22,5 +22,4 @@
   【练习inging】
 * 屏幕拼字
   【只做了前两步】
-  图片： [here](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/yyf.png)
-   源代码：[here](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework.py)
+   [我是作业连接](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework3.py)
