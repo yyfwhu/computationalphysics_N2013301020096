@@ -13,9 +13,9 @@
 * 通过*print*函数输出所需要字母
 * 具体效果图片[here](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/yyf.png)
 * 冗长的源代码：[here](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework.py)
-##总结
+## 总结
 * 字符库包含内容较少，仅涵盖了大写字母
 * 输入不方便，最好能建立一个交互式命令
 * 字符库较为冗长，许多没用的字符串，浪费资源
-##致谢
+## 致谢
 * 敬雷同学对循环语句的改进，受益匪浅
