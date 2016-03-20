@@ -31,4 +31,4 @@
 * 屏幕拼字
   
   【只做了前两步】
-   [我是作业连接](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework3.py)
+   [我是作业连接](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework3.md)
