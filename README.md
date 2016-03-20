@@ -1,3 +1,4 @@
+#computationalphysics
 ## _第一次作业_
 * 安装Linux系统
      【看室友安崩溃了，没敢再安】
@@ -21,3 +22,5 @@
   【练习inging】
 * 屏幕拼字
   【只做了前两步】
+  图片： [here](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/yyf.png)
+   源代码：[here](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework.py)
