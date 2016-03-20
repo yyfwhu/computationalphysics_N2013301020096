@@ -14,7 +14,7 @@
 *  通过字符库的调用建立字母库
 *  通过循环语句分别输出各个字母的每一行
 * 通过*print*函数输出所需要字母
-* 具体效果图片[here](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/yyf.png)
+* 具体效果图片：[here](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/yyf.png)
 * 冗长的源代码：[here](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework.py)
 
 ## 总结
@@ -23,4 +23,5 @@
 * 字符库较为冗长，许多没用的字符串，浪费资源
 
 ## 致谢
-* 敬雷同学对循环语句的改进，受益匪浅
+* 感谢敬雷同学对循环语句的改进，受益匪浅
+* 感谢[markdown](https://stackedit.io/editor#)在线编辑器，非常好用
