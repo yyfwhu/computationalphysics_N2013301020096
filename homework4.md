@@ -2,7 +2,7 @@
 
 ##摘要
 ####所选微分方程：
-$$  \frac{dv}{dt} =a-bv  $$
+  $$\frac{dv}{dt} =a-bv$$
 
 * 使用**Euler method**计算自由落体中速度与时间关系
 * 使用**matplotlib**绘制图像 
@@ -19,8 +19,8 @@ $$  \frac{dv}{dt} =a-bv  $$
 * 利用**matplotlib**画图
 
 * 直接解微分方程可得：
-   $$ \int_0^v\frac {{\rm d}v}{a-bv}=\int_0^t{{\rm d}t}  $$
-   $$ v=\frac{a}{b}(1-e^{-bt}) $$
+   $$\int_0^v\frac {{\rm d}v}{a-bv}=\int_0^t{{\rm d}t}$$
+   $$v=\frac{a}{b}(1-e^{-bt})$$
   
 ![friction](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/figure_1.jpg)
   
