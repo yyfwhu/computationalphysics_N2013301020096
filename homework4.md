@@ -21,7 +21,9 @@
 * 直接解微分方程可得：
    $$\int_0^v\frac {{\rm d}v}{a-bv}=\int_0^t{{\rm d}t}$$
    $$v=\frac{a}{b}(1-e^{-bt})$$
-  
+
+
+[数据](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E6%95%B0%E6%8D%AE)  
 ![friction](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/figure_1.jpg)
   
 ##总结
