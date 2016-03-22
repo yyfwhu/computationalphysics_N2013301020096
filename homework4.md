@@ -29,5 +29,5 @@
 选题还是比较简单的。。。。
 
 ##致谢
-感谢![matplotlib教程](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)写的非常详细
-感谢![蔡老师的例子](https://github.com/caihao/computational_physics_whu/blob/master/chapter1/uranium_decay.py)虽然太长，以后慢慢研读
+* 感谢[matplotlib教程](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)写的非常详细
+* 感谢[蔡老师的例子](https://github.com/caihao/computational_physics_whu/blob/master/chapter1/uranium_decay.py)虽然太长，以后慢慢研读
