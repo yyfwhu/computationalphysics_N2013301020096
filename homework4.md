@@ -25,5 +25,9 @@
 ![friction](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/figure_1.jpg)
   
 ##总结
+下一步，继续完善一下绘图效果。这个比较简单，毕竟建房子难，装修还是比较简单的嘛。有空再装饰一下
+选题还是比较简单的。。。。
 
 ##致谢
+感谢![matplotlib教程](http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/)写的非常详细
+感谢![蔡老师的例子](https://github.com/caihao/computational_physics_whu/blob/master/chapter1/uranium_decay.py)虽然太长，以后慢慢研读
