@@ -27,7 +27,7 @@
 ![friction](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/figure_1.jpg)
   
 ##总结
-下一步，继续完善一下绘图效果。这个比较简单，毕竟建房子难，装修还是比较简单的嘛。有空再装饰一下
+* 下一步，继续完善一下绘图效果。这个比较简单，毕竟建房子难，装修还是比较简单的嘛。有空再装饰一下
 选题还是比较简单的。。。。
 github不能显示公式真是头疼
 
