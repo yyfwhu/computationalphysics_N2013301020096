@@ -4,6 +4,7 @@
 
 #computationalphysics
 ## 欢迎来到**姚逸飞**的作业列表！【正经脸 (=￣ω￣=) 】
+![如来镇楼](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/photo.jpg)
 ## _第一次作业_
 * 安装Linux系统
      
