@@ -37,12 +37,12 @@
 * 屏幕拼字
   
   【只做了前两步】
-   [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework3.md)
+   [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework3.md)
 ## _第四次作业_
 
 * 完成第一章的练习题（自己任选一题）
 * 使用matplotlib完成图片的各种细节，认真写报告
 
   【新手从简单入手，选择了1.3考虑摩擦力下物体受外力运动】
-   [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework4.md)
+   [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework4.md)
    
