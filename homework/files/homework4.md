@@ -24,10 +24,10 @@
 
 ![](http://latex.codecogs.com/gif.latex?%5Cfrac%7Ba%7D%7Bb%7D%281-e%5E%7B-bt%7D%29)
 
-* 这里是[源代码](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/hw4.py)
+* 这里是[源代码](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/hw4.py)
 
 
-* 这里是[数据](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E6%95%B0%E6%8D%AE)  
+* 这里是[数据](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/data/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E6%95%B0%E6%8D%AE)  
 ![friction](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/figure_1.jpg)
   
 ##总结
