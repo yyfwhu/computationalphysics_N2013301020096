@@ -2,7 +2,7 @@
 
 ##摘要
 ####所选微分方程：
-*![](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdv%7D%7Bdt%7D%3Da-bv)
+* ![](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdv%7D%7Bdt%7D%3Da-bv)
 
 * 使用**Euler method**计算自由落体中速度与时间关系
 * 使用**matplotlib**绘制图像 
@@ -19,8 +19,8 @@
 * 利用**matplotlib**画图
 
 * 直接解微分方程可得：
-*![](http://latex.codecogs.com/gif.latex?\\int_0^v\frac {{\rm d}v}{a-bv}=\int_0^t{{\rm d}t})
-*![](http://latex.codecogs.com/gif.latex?\v=\frac{a}{b}(1-e^{-bt}))
+*  ![](http://latex.codecogs.com/gif.latex?\\int_0^v\frac {{\rm d}v}{a-bv}=\int_0^t{{\rm d}t})
+*  ![](http://latex.codecogs.com/gif.latex?\v=\frac{a}{b}(1-e^{-bt}))
 
 * 这里是[源代码](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/hw4.py)
 
