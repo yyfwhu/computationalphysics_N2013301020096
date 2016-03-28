@@ -28,7 +28,7 @@
 
 
 * 这里是[数据](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/data/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E6%95%B0%E6%8D%AE)  
-![friction](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/figure_1.jpg)
+![friction](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/g_1.png)
   
 ##总结
 * 下一步，继续完善一下绘图效果。这个比较简单，毕竟建房子难，装修还是比较简单的嘛。有空再装饰一下
