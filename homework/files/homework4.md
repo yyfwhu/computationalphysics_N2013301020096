@@ -1,9 +1,7 @@
 # 第四次作业
 
 ##摘要
-####所选微分方程：
-
-![](http://latex.codecogs.com/gif.latex?\\frac{dv}{dt} =a-bv)
+####所选微分方程：![](http://latex.codecogs.com/gif.latex?\\frac{dv}{dt} =a-bv)
 
 * 使用**Euler method**计算自由落体中速度与时间关系
 * 使用**matplotlib**绘制图像 
