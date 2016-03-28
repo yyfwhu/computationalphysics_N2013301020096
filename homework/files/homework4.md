@@ -19,8 +19,8 @@
 * 利用**matplotlib**画图
 
 * 直接解微分方程可得：
-*  ![](http://latex.codecogs.com/gif.latex?\\int_0^v\frac{{\rm d}v}{a-bv}=\int_0^t{{\rm d}t})
-*  ![](http://latex.codecogs.com/gif.latex?\v=\frac{a}{b}(1-e^{-bt}))
+*  ![](http://latex.codecogs.com/gif.latex?\int_0^v \frac{{\rm d}v}{a-bv} = \int_0^t{{\rm d}t})
+*  ![](http://latex.codecogs.com/gif.latex?v=\frac{a}{b}(1-e^{-bt}))
 
 * 这里是[源代码](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/hw4.py)
 
