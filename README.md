@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 #computationalphysics
 ## 欢迎来到**姚逸飞**的作业列表！【正经脸 (=￣ω￣=) 】
 ![观音镇楼](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/photo.jpg)
