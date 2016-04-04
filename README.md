@@ -4,7 +4,7 @@
 ![观音镇楼](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/photo.jpg)
   
   
-  ## _第一次作业_
+## _第一次作业_
 * 安装Linux系统
      
   【看室友安崩溃了，没敢再安】
