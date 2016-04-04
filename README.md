@@ -16,7 +16,7 @@
      
   【上文都是】
 
-## _第二次作业_
+  ## _第二次作业_
 * 自学vim相关操作
   
   【学习ing】
@@ -27,7 +27,7 @@
   
   【练习ing】
 
-## _第三次作业_
+  ## _第三次作业_
 * 自己用How to think like a computer scientist -- Learning with Python: Interactive Edition 2.0进行python语法练习（II）
   
   【练习inging】
@@ -35,14 +35,14 @@
   
   【只做了前两步】
    [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework3.md)
-## _第四次作业_
+  ## _第四次作业_
 
 * 完成第一章的练习题（自己任选一题）
 * 使用matplotlib完成图片的各种细节，认真写报告
 
   【新手从简单入手，选择了1.3考虑摩擦力下物体受外力运动】
    [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework4.md)
-##_第五次作业_
+  ##_第五次作业_
 * 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
   
   【markdown用的还挺顺手，基本的插图片和连接都学会了，matplotlib还在学习中】
