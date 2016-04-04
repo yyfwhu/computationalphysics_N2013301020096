@@ -44,11 +44,13 @@
    [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework4.md)
 ##_第五次作业_
 * 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
-  【markdown用的还挺顺手，基本的插图片和连接都学会了，matplotlib还在学习中】
+  
+【markdown用的还挺顺手，基本的插图片和连接都学会了，matplotlib还在学习中】
 
 ##_第六次作业_
 * 作业L1 2.9题
 * 作业L2 2.10题强化版（引入风阻）————“辅助精确打击系统”
 * 作业L3 发展“超级辅助精确打击系统”（考虑炮弹初始发射的时候发射角度误差1%，速度有5%的误差，风阻误差10%，可以考虑引入Coriolis force等，以炮弹落点与打击目标距离差平方均值最小为优胜）
+
 【这次难度骤升，估计要学习一段时间，另:由于插入公式很难看，之后作业改至作业部落】
 [我是作业](https://www.zybuluo.com/mdeditor#334269)
