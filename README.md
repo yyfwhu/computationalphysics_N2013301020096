@@ -33,11 +33,13 @@
 - [x] 自己用How to think like a computer scientist -- Learning with Python: Interactive Edition 2.0进行python语法练习（II）
   
   【练习inging】
-- [ ] 屏幕拼字
+- [x] 屏幕拼字
   
-  【只做了前两步】
+  【二十六个字母大小写随便写，做字符库挺累的~】
    [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework3.md)
-
+- [ ] 制作动图
+  
+  【这个真心挺难的，暂时不会】
 ## _第四次作业_
 
 - [x] 完成第一章的练习题（自己任选一题）
