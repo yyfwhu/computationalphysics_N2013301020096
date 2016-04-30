@@ -71,3 +71,26 @@
 - [ ] 作业L2 使用vpython可视化炮弹发射或者棒球运动
 
   [我是作业](https://www.zybuluo.com/mdeditor#341598-full-reader)
+
+##_第八次作业_
+- [ ] 作业3.7
+
+- [ ] 作业3.8
+
+  [我是作业](https://www.zybuluo.com/mdeditor#347562-full-reader)
+  
+##_第九次作业_
+- [ ] 作业L1 3.12
+
+- [ ] 作业L2 3.16 3.21
+
+  [我是作业](https://www.zybuluo.com/mdeditor#362836-full-reader)
+  
+##_第十次作业_
+- [ ] 作业L1 3.26
+
+- [ ] 作业L2 3.29 3.31
+
+- [ ] 作业L3 将以上题目使用vpython进行一个3D展示
+  [我是作业](https://www.zybuluo.com/mdeditor#362838-full-reader)
+
