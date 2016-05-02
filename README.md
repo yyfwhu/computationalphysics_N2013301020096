@@ -36,7 +36,8 @@
 - [x] 屏幕拼字
   
   【二十六个字母大小写随便写，做字符库挺累的~】
-   [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework3.md)
+   
+  [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework3.md)
 - [ ] 制作动图
   
   【这个真心挺难的，暂时不会】
@@ -47,13 +48,15 @@
 - [x] 使用matplotlib完成图片的各种细节，认真写报告
 
   【新手从简单入手，选择了1.3考虑摩擦力下物体受外力运动】
-   [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework4.md)
+   
+  [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework4.md)
 
 ##_第五次作业_
 - [x] 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
   
   【markdown用的还挺顺手，基本的插图片和连接都学会了，matplotlib还在学习中。另:由于插入公式很难看，之后作业改至作业部落】
-   [我是作业](https://www.zybuluo.com/mdeditor#334269-full-reader)
+   
+  [我是作业](https://www.zybuluo.com/mdeditor#334269-full-reader)
 
 ##_第六次作业_
 - [ ] 作业L1 2.9题
@@ -63,13 +66,15 @@
 - [ ] 作业L3 发展“超级辅助精确打击系统”（考虑炮弹初始发射的时候发射角度误差1%，速度有5%的误差，风阻误差10%，可以考虑引入Coriolis force等，以炮弹落点与打击目标距离差平方均值最小为优胜）
 
   【这次难度骤升，估计要学习一段时间】
-   [我是作业](https://www.zybuluo.com/mdeditor#335485-full-reader)
+   
+  [我是作业](https://www.zybuluo.com/mdeditor#335485-full-reader)
 
 ##_第七次作业_
-- [ ] 作业L1 2.19题
+- [x] 作业L1 2.19题
 
 - [ ] 作业L2 使用vpython可视化炮弹发射或者棒球运动
 
+  
   [我是作业](https://www.zybuluo.com/mdeditor#341598-full-reader)
 
 ##_第八次作业_
