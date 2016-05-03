@@ -56,7 +56,7 @@
   
   【markdown用的还挺顺手，基本的插图片和连接都学会了，matplotlib还在学习中。另:由于插入公式很难看，之后作业改至作业部落】
    
-  [我是作业](https://www.zybuluo.com/mdeditor#334269-full-reader)
+  [我是作业](https://www.zybuluo.com/whuyyf/note/334269)
 
 ##_第六次作业_
 - [x] 作业L1 2.9题
@@ -67,7 +67,7 @@
 
   【这次难度骤升，估计要学习一段时间】
    
-  [我是作业](https://www.zybuluo.com/mdeditor#335485-full-reader)
+  [我是作业](https://www.zybuluo.com/whuyyf/note/335485)
 
 ##_第七次作业_
 - [x] 作业L1 2.19题
@@ -75,7 +75,7 @@
 - [x] 作业L2 使用vpython可视化炮弹发射或者棒球运动
 
   
-  [我是作业](https://www.zybuluo.com/mdeditor#341598-full-reader)
+  [我是作业](https://www.zybuluo.com/whuyyf/note/341598)
 
 ##_第八次作业_
 - [ ] 作业3.7
