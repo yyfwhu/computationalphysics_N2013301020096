@@ -78,11 +78,11 @@
   [我是作业](https://www.zybuluo.com/whuyyf/note/341598)
 
 ##_第八次作业_(简谐摆）
-- [ ] 作业3.7
+- [x] 作业3.4
 
-- [ ] 作业3.8
+- [x] 作业3.5
 
-  [我是作业](https://www.zybuluo.com/mdeditor#347562-full-reader)
+  [我是作业](https://www.zybuluo.com/whuyyf/note/347562)
   
 ##_第九次作业_（混沌摆）
 - [ ] 作业L1 3.12
