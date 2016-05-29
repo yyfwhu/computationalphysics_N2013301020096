@@ -85,11 +85,11 @@
   [我是作业](https://www.zybuluo.com/whuyyf/note/347562)
   
 ##_第九次作业_（混沌摆）
-- [ ] 作业L1 3.12
+- [x] 作业L1 3.12
 
-- [ ] 作业L2 3.16 3.21
+- [x] 作业L2 3.16 3.21
 
-  [我是作业](https://www.zybuluo.com/mdeditor#362836-full-reader)
+  [我是作业](https://www.zybuluo.com/whuyyf/note/362836)
   
 ##_第十次作业_（台球运动）
 - [ ] 作业L1 3.26
