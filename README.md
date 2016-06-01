@@ -91,14 +91,14 @@
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/362836)
   
-##_第十次作业_（台球运动）
-- [ ] 作业L1 3.26
+##_第十次作业_（洛伦茨模型）
+- [x] 作业L1 3.26
 
-- [ ] 作业L2 3.29 3.31
+- [x] 作业L2 3.29 3.31
 
 - [ ] 作业L3 将以上题目使用vpython进行一个3D展示
 
-  [我是作业](https://www.zybuluo.com/mdeditor#362838-full-reader)
+  [我是作业](https://www.zybuluo.com/whuyyf/note/362838)
 
 ##_第十一次作业_（行星模型）
 - [ ] 作业 4.7 4.9 4.11
