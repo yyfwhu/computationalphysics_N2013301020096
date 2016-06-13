@@ -1,7 +1,7 @@
 '''
 program : electric capacitor
 this program give the potential plot of capacitor
-Author: Chen Yangyao           Last modify: 20160523
+Author: yaoyifei         Last modify: 20160613
 '''
 
 from numpy import *
