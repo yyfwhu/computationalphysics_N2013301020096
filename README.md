@@ -106,14 +106,14 @@
   [我是作业](https://www.zybuluo.com/whuyyf/note/403232)
 
 ##_第十二次作业_（行星模型）
-- [ ] 作业 4.16 4.18 4.20
+- [x] 作业 4.16 4.18 4.20
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/403833)
 
 ##_第十三次作业_（场模型）
-- [ ] 作业 
+- [x] 作业 
 
-  [我是作业]()
+  [我是作业](https://www.zybuluo.com/whuyyf/note/404913)
   
 ##_第十四次作业_（波动模型）
 - [ ] 作业 
