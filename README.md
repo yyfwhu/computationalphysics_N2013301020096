@@ -116,6 +116,11 @@
   [我是作业](https://www.zybuluo.com/whuyyf/note/404913)
   
 ##_第十四次作业_（波动模型）
-- [ ] 作业 
+- [x] 作业 
+
+  [我是作业](https://www.zybuluo.com/whuyyf/note/406644)
+  
+##_BOSS作业_（带点体在外场中运动及磁力摆）
+- [] 作业 
 
   [我是作业]()
