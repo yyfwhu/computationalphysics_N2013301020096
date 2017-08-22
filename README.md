@@ -1,5 +1,5 @@
 
-#computationalphysics
+# computationalphysics
 ## 欢迎来到**姚逸飞**的作业列表！【正经脸 (=￣ω￣=) 】
 ![观音镇楼](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/photo.jpg)
 
@@ -51,14 +51,14 @@
    
   [我是作业](https://github.com/yyfwhu/computationalphysics_N2013301020096/blob/master/homework/files/homework4.md)
 
-##_第五次作业_
+## _第五次作业_
 - [x] 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
   
   【markdown用的还挺顺手，基本的插图片和连接都学会了，matplotlib还在学习中。另:由于插入公式很难看，之后作业改至作业部落】
    
   [我是作业](https://www.zybuluo.com/whuyyf/note/334269)
 
-##_第六次作业_
+## _第六次作业_
 - [x] 作业L1 2.9题
 
 - [x] 作业L2 2.10题强化版（引入风阻）————“辅助精确打击系统”
@@ -69,7 +69,7 @@
    
   [我是作业](https://www.zybuluo.com/whuyyf/note/335485)
 
-##_第七次作业_
+## _第七次作业_
 - [x] 作业L1 2.19题
 
 - [x] 作业L2 使用vpython可视化炮弹发射或者棒球运动
@@ -77,21 +77,21 @@
   
   [我是作业](https://www.zybuluo.com/whuyyf/note/341598)
 
-##_第八次作业_(简谐摆）
+## _第八次作业_(简谐摆）
 - [x] 作业3.4
 
 - [x] 作业3.5
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/347562)
   
-##_第九次作业_（混沌摆）
+## _第九次作业_（混沌摆）
 - [x] 作业L1 3.12
 
 - [x] 作业L2 3.16 3.21
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/362836)
   
-##_第十次作业_（洛伦茨模型）
+## _第十次作业_（洛伦茨模型）
 - [x] 作业L1 3.26
 
 - [x] 作业L2 3.29 3.31
@@ -100,27 +100,27 @@
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/362838)
 
-##_第十一次作业_（引力模型）
+## _第十一次作业_（引力模型）
 - [x] 作业 4.7 4.9 4.11
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/403232)
 
-##_第十二次作业_（行星模型）
+## _第十二次作业_（行星模型）
 - [x] 作业 4.16 4.18 4.20
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/403833)
 
-##_第十三次作业_（场模型）
+## _第十三次作业_（场模型）
 - [x] 作业 
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/404913)
   
-##_第十四次作业_（波动模型）
+## _第十四次作业_（波动模型）
 - [x] 作业 
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/406644)
   
-##_BOSS作业_（带点体在外场中运动及霍尔效应）
+## _BOSS作业_（带点体在外场中运动及霍尔效应）
 - [x] 作业 
 
   [我是作业](https://www.zybuluo.com/whuyyf/note/407186)
